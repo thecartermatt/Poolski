@@ -1,0 +1,8 @@
+namespace Poolski.API.Dtos
+{
+    public class LocationForDropdownDto
+    { 
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}

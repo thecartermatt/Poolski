@@ -1,0 +1,14 @@
+C:\Code\dotnet\poolski\poolski.api\bin\Debug\netcoreapp2.1\Poolski.API.deps.json
+C:\Code\dotnet\poolski\poolski.api\bin\Debug\netcoreapp2.1\Poolski.API.runtimeconfig.json
+C:\Code\dotnet\poolski\poolski.api\bin\Debug\netcoreapp2.1\Poolski.API.runtimeconfig.dev.json
+C:\Code\dotnet\poolski\poolski.api\bin\Debug\netcoreapp2.1\Poolski.API.dll
+C:\Code\dotnet\poolski\poolski.api\bin\Debug\netcoreapp2.1\Poolski.API.pdb
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.csprojAssemblyReference.cache
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.csproj.CoreCompileInputs.cache
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.RazorAssemblyInfo.cache
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.RazorAssemblyInfo.cs
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.AssemblyInfoInputs.cache
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.AssemblyInfo.cs
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.RazorTargetAssemblyInfo.cache
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.dll
+C:\Code\dotnet\poolski\poolski.api\obj\Debug\netcoreapp2.1\Poolski.API.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poolski.web", "Poolski.web.csproj", "{E74E43B4-FD6E-4807-8556-8A51A33D4A52}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poolski.API", "..\Poolski.API\Poolski.API.csproj", "{9FEB9554-E689-49AD-AABA-153A4BE87FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74E43B4-FD6E-4807-8556-8A51A33D4A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74E43B4-FD6E-4807-8556-8A51A33D4A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74E43B4-FD6E-4807-8556-8A51A33D4A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74E43B4-FD6E-4807-8556-8A51A33D4A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEB9554-E689-49AD-AABA-153A4BE87FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEB9554-E689-49AD-AABA-153A4BE87FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEB9554-E689-49AD-AABA-153A4BE87FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEB9554-E689-49AD-AABA-153A4BE87FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B8644D-D018-4AE8-821B-BCBEF6F7A120}
+	EndGlobalSection
+EndGlobal
