@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Poolski.API.Models;
 
@@ -7,12 +8,13 @@ namespace Poolski.API.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base (options){}
 
-        public DbSet<User> Users {get; set;}
-
         public DbSet<Location> Locations {get; set;}
         public DbSet<LocationType> LocationTypes { get; set; }
 
         public DbSet<Trip> Trips { get; set; }
+
+
+        public DbSet<User> Users { get; set; }
 
         public DbSet<UserTrip> UserTrips { get; set; }
 

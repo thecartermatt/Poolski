@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Poolski.API.Models
 {
-    public class User : IdentityUser
+    public class User 
     {
    
         public int Id { get; set; } 
@@ -14,7 +14,7 @@ namespace Poolski.API.Models
         public string LastName { get; set; }
 
         public string Email { get; set; }
-        public byte[] PasswordHash { get; set; }
+       public byte[] PasswordHash { get; set; }
         public byte[] PasswordSalt { get; set; }
 
         public virtual ICollection<UserTrip> UserTrips { get; set; }
